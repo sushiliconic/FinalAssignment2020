@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace FinalAssignment2020
 {
+    /// <summary>
+    /// Polygon class inherits class shape
+    /// </summary>
     class Polygon : Shape
     {
 
