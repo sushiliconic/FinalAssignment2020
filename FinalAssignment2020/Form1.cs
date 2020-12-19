@@ -60,7 +60,7 @@ namespace FinalAssignment2020
         {
             drawingBoard.Invalidate();
             drawingBoard.Refresh();
-            MessageBox.Show("Compilation Failed");
+            MessageBox.Show("Compilation is Failed");
         }
       
 
