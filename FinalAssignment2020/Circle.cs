@@ -22,7 +22,7 @@ namespace FinalAssignment2020
         /// <param name="c">C is for color</param>
         
         /// <param name="g">g is for graphics</param>
-        /// <param name="form">f is for form</param>
+        /// <param name="form">form</param>
         public override void draw(Color c, Graphics g, Form1 form)
         {
             if (form.rotateValue.Text != "0")
@@ -39,7 +39,7 @@ namespace FinalAssignment2020
                 g.FillEllipse(b, x, y, radius, radius);
             }
             g.DrawEllipse(p, x, y, radius, radius);
-        }
+        } 
 
 
 
