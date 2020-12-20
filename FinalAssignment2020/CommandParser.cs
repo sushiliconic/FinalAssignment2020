@@ -1748,7 +1748,7 @@ namespace FinalAssignment2020
         /// <summary>
         /// check for valid Prameter
         /// </summary>
-        /// <param name="line"> This a line variable of string type which is each line of textbox</param>
+        /// <param name="line"> This is the line variable of string type which is each line of textbox</param>
         /// <returns> returns true if the parameters are valid</returns>
         public bool checkValidParameter(string line)
         {
@@ -1756,7 +1756,7 @@ namespace FinalAssignment2020
             Dictionary<string, int> list =
             new Dictionary<string, int>();
 
-            // Adding key/value pairs in myDict 
+            // Adding key/values pairs in myDict 
             list.Add("circle", 1);
             list.Add("triangle", 1);
             list.Add("rectangle", 2);
