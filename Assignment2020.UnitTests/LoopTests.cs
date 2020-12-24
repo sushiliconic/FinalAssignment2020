@@ -33,7 +33,7 @@ namespace Assignment2020.UnitTests
         public void isLoop_loop_for_counter_lessthanor_equalsto_10_lineIsPassed_ReturnsTrue()
 
         {
-            //Arrange
+            //Arrangee
 
 
 
