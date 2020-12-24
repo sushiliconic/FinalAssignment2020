@@ -53,7 +53,7 @@ namespace FinalAssignment2020
 
         public override void set(params int[] list)
         {
-            base.set(list[list.Length - 1], list[list.Length]);
+            base.set(list[6], list[7]);
             this.points = list;
 
         }

@@ -1762,7 +1762,7 @@ namespace FinalAssignment2020
             list.Add("rectangle", 2);
             list.Add("moveto", 2);
             list.Add("drawto", 2);
-            list.Add("polygon", 4);
+            list.Add("polygon", 6);
             list.Add("pen", 1);
 
 

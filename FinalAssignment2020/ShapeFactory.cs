@@ -31,7 +31,7 @@ namespace FinalAssignment2020
             }
             else if (shapeType.Equals("POLYGON"))
             {
-                return new Triangle();
+                return new Polygon();
             }
             else
             {
