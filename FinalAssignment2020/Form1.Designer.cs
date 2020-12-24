@@ -335,7 +335,7 @@
         /// </summary>
         public System.Windows.Forms.RichTextBox consoleTextBox;
         /// <summary>
-        /// output area
+        /// output 
         /// </summary>
         public System.Windows.Forms.Panel drawingBoard;
         /// <summary>
